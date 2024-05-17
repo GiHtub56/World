@@ -1,0 +1,87 @@
+body{
+    background: black;
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: #390040;
+}
+.Header h1{
+    color: white;
+    margin-left: 50px;
+}
+.Header H2 ul{
+    margin-left: 400px;
+}
+.Header ul{
+    padding-top: 20px;
+    display: flex;
+    list-style: none;
+    margin-right: 50px;
+}
+li a{
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+    padding: 40px;
+}
+.Big-B{
+    color: gold;
+    padding-top: 70px;
+    height: 500px;
+    background-image: url(/Img/Banana.jpg);
+    background-size: cover;
+}
+.F-h1{
+    padding-left: 830px;
+}
+.F-p{
+    padding-left: 850px;
+}
+.F-But{
+    margin-left: 870px;
+    width: 90px;
+    height: 40px;
+    background-color: #EE4266;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.F-But-2{
+    margin-top: 10px;
+    margin-left: 890px;
+    width: 90px;
+    height: 40px;
+    background-color: #EE4266;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.Big-C{
+    height: 500px;
+    background-image: url(/Img/apple-8027944_640.webp);
+    background-size: cover;
+}
+.S-Text{
+    color: #0CCE6B;
+    text-align: center;
+    padding-top: 50px;
+}
+.S-But{
+    background-color: #DCED31;
+    width: 90px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.S-But-2{
+    background-color: #DCED31;
+    width: 90px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 10px;
+}
